@@ -40,8 +40,8 @@ ClientQueryManagement/
 
  1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/ClientQuerySystem_v2.git
-cd ClientQuerySystem_v2 
+git clone https://github.com/praneshrams07/ClientQueryManagement.git
+cd ClientQueryManagement
 ```
 
 2️⃣ Create and activate a virtual environment
@@ -60,9 +60,9 @@ pip install -r requirements.txt
 ```bash
 python setup_database.py
 ```
-Creates the MySQL database and tables
-Saves credentials to .env
-Optionally seeds dummy users for testing
+- Creates the MySQL database and tables
+- Saves credentials to .env
+- Optionally seeds dummy users for testing
 
 5️⃣ Import CSV data 
 ```bash
